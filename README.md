@@ -1,4 +1,4 @@
-![Grok Bot Growth Team: One person, backed by an AI team.](assets/readme-cover.webp)
+![Grok Bot Growth Team: One person, backed by an AI team.]
 
 # Grok Bot Global Growth Starter Kit
 
@@ -7,8 +7,6 @@
 This open-source skill is for indie developers and small teams. It is based on our experience running global growth with one person and multiple Grok Bots. First, it clarifies your product, markets, and channels. Then a lead Bot coordinates specialist Bots so they can work together over the long term.
 
 Start with one workflow and get it running smoothly. Then expand into social media, SEO/AEO, backlinks, competitor research, emerging keywords and trends, and multilingual video. You create the Bots, connect accounts, confirm benchmarks, and approve the first batch of content by following the generated checklist.
-
-By [BeatAPI](https://beatapi.io) · [View the skill file](skills/growth-fleet-starter/SKILL.md) · [MIT License](LICENSE)
 
 [Quick start](#quick-start) · [A launch example](#a-launch-example) · [Six workflows](#six-workflows) · [Getting started in week one](#getting-started-in-week-one)
 
