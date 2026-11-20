@@ -12,7 +12,7 @@ Start with one workflow and get it running smoothly. Then expand into social med
 
 ## Quick start
 
-### Send this to your Grok Bot
+### Send this to your boys / grok Bot
 
 ```text
 Read this skill file and install it as one of your skills:
