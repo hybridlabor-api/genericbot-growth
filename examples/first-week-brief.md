@@ -1,26 +1,26 @@
-# 第一周开工简报示例
+# Example: First-Week Launch Brief
 
-这是一个说明输入格式的虚构示例，可复制后替换为自己的信息。
+This fictional example demonstrates the expected input format. Copy it and replace the details with your own.
 
-## 给智能体的输入
+## Input for the agent
 
-请使用 `growth-fleet-starter`，根据下面的信息生成我的 `fleet/` 文件。
+Use `growth-fleet-starter` to generate my `fleet/` files based on the information below.
 
-1. **产品**：面向独立开发者的在线工具。请在开工前让我补充产品名、一句话价值、官网，以及可以公开引用的功能事实。
-2. **市场和语言**：第一周只做英文市场。
-3. **已有渠道**：官网和英文 X。账号连接由我完成；目前没有批准任何发布动作。
-4. **先开的线**：英文 X 内容。先生成总管、英文 X 岗位和独立审稿岗位的说明，其他线暂不开。
-5. **对标账号**：请找同类里已经起量的账号，给出公开来源和适合学习的理由，等我确认后再拆解。保留钩子和结构，正文、场景和证据使用我们自己的。
-6. **审核节奏**：每天审一次。未经我本人对具体稿件的批准，不发布，也不启用自动发布任务。
+1. **Product:** An online tool for indie developers. Before getting started, ask me for the product name, one-sentence value proposition, website, and feature facts that may be cited publicly.
+2. **Markets and languages:** Focus only on the English-speaking market during the first week.
+3. **Existing channels:** Website and English-language X. I will connect the accounts; no publishing actions have been approved yet.
+4. **First workflow:** English X content. Generate launch instructions for the lead Bot, English X specialist, and independent review role. Do not start any other workflows yet.
+5. **Benchmark accounts:** Find successful accounts in a similar niche, provide public sources and explain why each is worth learning from. Wait for my confirmation before analyzing them. Keep the hooks and structure, but use our own product, scenarios, and evidence in the body. (Add any further requirements here.)
+6. **Review cadence:** Review once a day. Do not publish or enable automated publishing tasks until I personally approve each specific draft.
 
-## 我希望拿到的交付
+## Deliverables I expect
 
-按技能定义，生成这些文件，并说明每份文件的用途：
+Generate the following files as defined by the skill, and explain the purpose of each:
 
-- `fleet/SHARED.md`：简短共用规则。
-- `fleet/bots/`：总管、英文 X 和独立审稿岗位的开工说明。
-- `fleet/review-sheet.md`：审核字段和状态。
-- `fleet/routines.md`：建议的任务、频率和通知方式；等待我确认后再配置。
-- `fleet/SETUP.md`：我必须亲手完成的账号连接、对标确认和首次批准步骤。
+- `fleet/SHARED.md`: concise shared rules.
+- `fleet/bots/`: launch instructions for the lead Bot, English X specialist, and independent review role.
+- `fleet/review-sheet.md`: review fields and statuses.
+- `fleet/routines.md`: recommended tasks, cadence, and notification behavior; wait for my confirmation before configuring them.
+- `fleet/SETUP.md`: account connection, benchmark approval, and first-content approval steps that I must complete myself.
 
-如果当前环境不具备创建 Bot、抓取帖子或配置定时任务的能力，请列出缺口和手动步骤。不要把生成文件描述成已完成线上配置。
+If the current environment cannot create Bots, retrieve posts, or configure scheduled tasks, list the gaps and manual steps. Do not describe generated files as completed online configuration.
